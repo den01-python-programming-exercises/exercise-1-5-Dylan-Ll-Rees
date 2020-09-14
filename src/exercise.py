@@ -1,5 +1,6 @@
 def main():
-    name = "Ada Lovelace"
+    name = "Hi "+"Ada Lovelace"
+    print(name)
     # Write your code here
 
 if __name__ == '__main__':
